@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answers to the objections aga[i]nst the college-bill.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690-1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75453</idno>
+            <idno type="STC">Wing A3470</idno>
+            <idno type="STC">ESTC R231338</idno>
+            <idno type="EEBO-CITATION">45097496</idno>
+            <idno type="OCLC">ocm 45097496</idno>
+            <idno type="VID">171116</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171116)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2559:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answers to the objections aga[i]nst the college-bill.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: some loss of print along folds.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal College of Physicians of London.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171116:1" rendition="simple:additions"/>
+            <head>ANSWERS <hi>to the</hi> OBJECTIONS <hi>againſt the</hi> COLLEGE-BILL</head>
+            <p>
+               <label>
+                  <seg rend="decorInit">O</seg>BJECTION.</label> 
+               <hi>The Caſe of the Preſident and 12 of the Ancient Fellows againſt other who have brought in the Bill in Parliament.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> That is, The Preſident and 12 of the Ancient Fellows in a private Cabal againſt the ſame Preſident and the majority of the ancient Fellows, and 40 other Fellows aſſembled in Publick College.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>The Perſons who promote this Bill were chief Actors in ſurrendring the Colle<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Charter.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The Surrender of the late Charter was Subſcribed by 35 of the ancient F<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ows, of which Number were the now Preſident and 10 of the Petitioners againſt this Bill; and by way of Ballot 23 of 27 of the Fellows then preſent gave <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Vote for the ſaid Surrender; nor do we know of any who promoted this Surrender, beſides Sir <hi>Tho. Witherly,</hi> the then Preſident. And ſo far were thoſe Pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſons who promote this Bill, from being chief Actors in Surrendring the Charter, that great Endeavours were made to leave their Names out of the Charter of King <hi>James</hi> as Perſons diſaffected to the then Government; one of them having voted for Common-Council Men, who appeared againſt the Surrender of the City Charter.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>And procured a New Charter from King</hi> James.</p>
+            <p>
+               <label>Anſw.</label> The College in Publick Meeting appointed 18 of the ancient Fellows, (of which number were the preſent Preſident and 4 more of the Petitioners againſt the Bill) to act in relation to the new Charter, who met and reſolved what uſeful Privileges they ſhould deſire to be inſerted therein: as ſecuring the Treaſury and College Seal, ſettling Com<g ref="char:EOLhyphen"/>mittees, Licenſing Books relating to Phyſick and Surgery, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label>Obj.</label> 
+               <hi>The late Charter makes the Fellows to be only at the King's Pleaſure.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> This Clauſe was not deſired, but forced upon us.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>Forty new Fellows were impoſed on the College by the new Charter, ſome of which were Papſts and Foreigners.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Moſt of theſe new Fellows were Members of the College before, and examined, the reſt Men of good Practice and approved Learning; reſiding in the Town, having taken their Degree of Doctors in our own or other Univerſities, and ſuch as by our Acts of Parliament we had Power to admit, amongſt whom there were only two Papiſts (that we know of) and the Queen Dowagers Phyſician, who are left out in this Bill, as they well know. And tho' they would pretend that theſe new Fellows were impoſed upon them; yet 'tis ſo far from truth, that they do well know that their Names were given to the late Lord C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ancellor by Sir <hi>Tho. Witherley</hi> then Preſident, as Perſons fitly qualified for their Learning and Experience to be Fellows of the College, and when 30 of theſe Fellows were admitted into the College, there were not fewer than 24 of the ancient Fellows preſent conſenting to their admiſſion, of which Number were the preſent Preſident and five of the Petitiones againſt the College-Bill, who gave 10 <hi>s.</hi> a Man towards making a Feaſt to expreſs their Joy for the advantage the College received by the encreaſe of their Number, <hi>&amp;c.</hi> The College having hereby received about 1500 <hi>l.</hi> towards the Payment of a great Debt (contracted in great meaſure by the ill management of late Preſidents and Elects) and enable themſelves to Pay the remainder in half the time they otherwiſe could.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>The New Charter coſt the College to</hi> Burton <hi>and</hi> Grayham <hi>above</hi> 200 <hi>l.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> This Money was all diſpoſed of and paid to <hi>Burton</hi> by the then Preſident Sir <hi>Tho. Witherley,</hi> and Dr. <hi>Rogers</hi> now Preſident, and then Treaſurer of the College, who thereupon ought to anſwer for it, and there being about 30 <hi>l.</hi> more demanded by <hi>Burton</hi> of Sir <hi>Thomas Millington</hi> the preſent Treaſurer, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho thought it ſo Extravagant, that he abſolutely refuſed to Pay it.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>Some of the old Fellows were excluded by this Charter.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The Chancellor leſt out 4 by his Abſolute Power, and we by our Application got them reſtored, having in the mean time conſulted with them, and treated them as Fellows upon all occaſions; and as a farther teſtimony of our reſpect to them, refuſed to put out a Catalogue during their Suſpenſion, leſt we ſhould thereby have owned the Illegal and Arbitrary Proceedings of the Chancellor againſt them.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>Arbitrary By-Laws were made upon the Admiſſion of theſe new Fellows.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> All our By-Laws were made upon great Deliberation for the good of the Publick and the College, purſuant to our Acts of Parliament; in the framing of which, ſome of theſe Petitioners were concerned, and at the confirming of them in two ſeveral publick Meetings as our Statutes require) moſt of the Petitioners againſt this Bill were preſent. And as to thoſe made after the admiſſion of the new Fellows, they were ſuch as added greater Penalties to enforce the due obſervation of the Moral Statutes of the College, obliged Treaſurers to give Bond for the College Security, directed Auditors to be joyned with the Elects in paſſing the College Accounts, ſecured the College Seal from being applied to Writings, <hi>&amp;c.</hi> without the conſent of the Society, and advanced the Honor and Intereſt of our own Univerſities: nor do they any way relate to this Bill.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>One of the Arbitrary By-Laws was, That no Member of the College ſhould write Latin Directions; for the breach of which, Members were fined at will and pleaſure.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> This By-Law inſtanced was ballotted in two ſeveral Meetings, in the firſt it paſs'd <hi>Nemine contradicente;</hi> in the ſecond at a Months diſtance it was carried by 31, of 37. Which By-Law was, and ſtill is thougt neceſſary to prevent the miſtakes too often committed by Apothecaries and their Servants, in tranſlating Phyſicians Latin Directions, which have proved fatal to ſome of the King's Subjects. The Fine is certain by Statute, <hi>viz.</hi> 20 <hi>s.</hi> and not Arbitrary, being inflicted by the Cenſors who are upon Oath.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>Divers Suits and Actions were commenc'd,</hi> &amp;c. <hi>by Virtue of the new Charter againſt Apothecaries and Surgeons.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> All Suits whatſoever are commenc'd by the Cenſors as the Law of the Kingdom direct, nor has any Apothecary or Surgeon been ſued ſince the new Charter (that we know of) by vertue of any new by <hi>Law.</hi>
+            </p>
+            <p>
+               <label>Obj.</label> 
+               <hi>The Doctors who promote the Bill Petition'd a Committee of the Houſe to Confirm King</hi> James'<hi>s Charter.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The Preſident and 11 of the ancient Fellows (as they call themſelves) did ſecretly without the conſent of the College preſent a Petition to the Committee of Grievances, the conſequence of which had been the turning out of 40 new Fellows; whereupon (in open College) the ſame Preſident and 55 Fellows (whereof 26 were of the ancient Cor<g ref="char:EOLhyphen"/>poration) did Sign and Seal a Petition for continuing the ſaid Fellows, and the Privileges contained in the ſaid Charter, having in a former College choſen a Committee to take care of them; after which, the Preſident refuſing to call a College (tho' requeſted by the principal Members thereof) the Vice-Preſident and 40 of the Fellows (of which Number were 4 of the Elects, and above 20 ancient Fellows) made it their deſire under their hands, that the forementioned Committee would bring in a Bill in Parliament, which accordingly they did; and when the Preſident was forced to call a College to anſwer an Order of the Houſe of Lords, He with two other of the Petitioners againſt the College-Bill, did agree in publick College, that this Committee ſhould proceed in carrying on this Bill. In which there is nothing of King <hi>James</hi>'s Charter; but only the Number of 80 Fellows and the Treaſurers giving Bond to the College; ſo that there is no pretence for all that Paragraph.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>They added a Clauſe that the Cenſors might examine Perſons upon Oath.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> No ſuch Clauſe in this Bill, as they acknowledge.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>They added a Proviſo, that the Preſident and any</hi> 14 <hi>Fellows may make a Court to examine any Offences or Matters in the Society.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> No ſuch Proviſo in the Bill.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>The Sums or the greateſt part received of the Fellows admitted by the new Charter was run out for obtaining the new Charter, and other Extravagancies.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The Money received of the Fellows admitted by the new Charter amounted to about 1500 <hi>l.</hi> This Charter coſt the College (as they formerly owned) about 200 <hi>l.</hi> which was Paid by Sir <hi>Tho. Witherley</hi> and Dr. <hi>Rogers</hi> before any of theſe Fellows were Enter'd, and ſince their admiſſion, Sir <hi>Tho. Millington,</hi> (the preſent Treaſurer) has paid and expended 1900 <hi>l.</hi> towards Payment of Debts, the making a new Library, and repairing the College.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>Moſt of the Debt the College was run into, was for Building the College.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> When the whole College was finiſh'd, it was but in Debt 1350 <hi>l.</hi> which Sum by miſ-management was in Eight years increaſed to 6000 <hi>l.</hi>
+            </p>
+            <p>
+               <label>Obj.</label> 
+               <hi>The Miſcarriage of Dr.</hi> Whiſtler <hi>was chiefly owing to the Promoters of this Bill.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> We deſire that may be examined, for the preſent Preſident and Elects upon auditing Dr. <hi>Whiſtler</hi>'s Accounts after he had received 2000 <hi>l.</hi> did make the College Debtor 384 <hi>l.</hi> 7<hi>s.</hi> 7<hi>d.</hi> to him, without taking any Security, or making any Entry of the ſaid 2000 <hi>l.</hi> in the Treaſury-Book, where they have alſo allowed him Intereſt advanced for the 2000 <hi>l.</hi> about 10 Months before it was due; to all which matter, and ſeveral other Miſcarriages of ſome late Preſidents and Elects, (ſuch as entring Subſcriptions of ſeveral Hundred Pounds in looſe Papers without date of Day, Month or Year; giving a diſcharge of a ſmall Sum never enter'd in the Treaſury Book, which is inſiſted upon why the College ſhould not be let into an account of 1200 <hi>l.</hi> neglecting to receive ſeveral Sums of Money owing to the College, appropriating others due to the College to their private uſe, violating the College Statutes, governing not according to the Laws of the College, but at will and pleaſure rediculing Solemn Oaths, withdrawing a College Writ when legally executed, and applying the College Seal to a publick Writing, without the knowledge of the College) Sir <hi>Tho<g ref="char:punc">▪</g> Millington</hi> and Dr. <hi>Goodall</hi> are willing to be heard.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>By this new Charter of King</hi> James, <hi>and this new Bill, there are to be</hi> 16 <hi>Elects, which is in Infringement of Ancient Rights.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> By K. <hi>C.</hi> 2. Charter, there were to be 10 Elects, by the Charter of K. <hi>J.</hi> 2. there vere to be 12, and by this Bill 16, whereof 2 are of the Petitioners, one of which did act as an Elect by the Charter of K. <hi>J.</hi> 2. tho' told it was againſt an Act of Parliament; an ſo earneſt was He then to defend this Charter, that He brought a Paper of Reaſons to juſtifie his Proceedings.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>They turned out and diſplac'd whom they pleaſed, and made what Arbitrary By-Laws thy thought fit.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> There has been none hitherto ſo turned out or diſplac'd, nor will be, unleſs they deſere it by the Judgment of the majority of the College, nor can any Officers be choſen but in the ſame Method; And as for the Arbitrary By-Laws here complained of, they are ſuch <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s were formerly mention'd.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>A Laboratory</hi> or <hi>Apothecaries Shop is to be ſet up to make their own Phyſick,</hi> &amp;c.</p>
+            <p>
+               <label>Anſw.</label> The Laboratory was made at the firſt Building of the College, and it was lately orded by a Publick Decree thereof, that it ſhould be fitted up for the preparing Medicines for the Poor, to be given them <hi>Gratis,</hi> in purſuance of a former Vote for giving their Advicin like manner, which was the publick Deſign of the Laboratory.</p>
+            <p>
+               <label>Obj.</label> 
+               <hi>This Bill will hinder the good Correſpondence which ſhould be maintained betwixt the Col<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ege and Apothecaries and Surgeons.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> We all deſire a good Correſpondence with Apothecaries and Surgeons, they keep in within their due Bounds; but we have very good reaſon to believe that theſe Gen<g ref="char:EOLhyphen"/>tlemen who oppoſe this Bill, and the Publick good of the College, do it with a deſign to ingraate themſelves thereby with the Apothecaries, ſo that they may be by them re<g ref="char:EOLhyphen"/>commended to Patients; and that they might ſtill continue in open Contempt and Defiance <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the wholſome and good Government of their Society.</p>
+            <p>
+               <hi>As to what is Objected that the College is a Monopoly, It is a great Miſtake, becauſe the Number of Licentiates is unlimitted, the College having never refuſed to receive any Perſon into that Order who hath given any tolerable account of his Ability (before the Cenſors of the College, w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are upon Oath) to do any Service to the King's Subjects, tho' it be but in ſome particular Diſeaſes.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
